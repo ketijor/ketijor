@@ -1,18 +1,16 @@
 # Hi there 👋 Welcome to my GitHub profile!
 
-![octocat-1710340734961](https://github.com/ketijor/ketijor/assets/71487324/75d557af-2450-4e0e-a67e-03f81b0c80c4)
+<img src="https://github.com/user-attachments/assets/cdc6e9e5-384d-40df-bccd-97559db1fc20" width="500"/>
 
 
-## My name is Keti and my nickname is "ketijor"!
+## My name is Keti Jorgensen and my nickname is "ketijor"!
 
-- 🌱 Atualmente estou aprendendo Front-End com a Alura em parceria com a Oracle!
-- 🤓 E estudando Bacharelado em Tecnologia da Informação pela Univesp/SP!
+- 🌱 Recentemente finalizei a Formação Front-End da Alura em parceria com a Oracle!
+- 🤓 Atualmente estou estudando Bacharelado em Tecnologia da Informação pela Univesp/SP!
 
 ## Tecnologias
 
-<i class="devicon-html5-plain-wordmark"></i>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 
 ## Contatos
 
